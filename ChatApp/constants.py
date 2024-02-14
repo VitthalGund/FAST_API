@@ -9,3 +9,5 @@ SQLALCHEMY_DATABASE_URL = (
         database="<databaseName>",
     )
 )
+
+OPEN_AI_KEY = "YourKey"
